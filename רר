@@ -1,0 +1,17 @@
+<style>
+  body { text-align: center; padding: 20px; font-family: Arial; }
+  .btn { 
+    display: inline-block; 
+    padding: 12px 25px; 
+    background: #4CAF50; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 20px; 
+    font-weight: bold;
+  }
+  .btn:hover { background: #45a049; transform: scale(1.05); }
+</style>
+
+<a href="https://www.youtube.com/watch?v=4vipu8Nh4Bo&list=PLqSccYLztOfMurRVO5uYhz-10knHkxTRO&index=10" class="btn" target="_blank">
+  ✨ כפתור יפה
+</a>
