@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body { 
+            margin: 0; 
+            padding: 30px; 
+            font-family: Arial, sans-serif; 
+            background: #f0f2f5; 
+            text-align: center;
+            direction: rtl;
+        }
+        .simple-btn { 
+            display: inline-block; 
+            padding: 15px 35px; 
+            background: linear-gradient(45deg, #667eea, #764ba2); 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 25px; 
+            font-weight: bold; 
+            font-size: 16px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        .simple-btn:hover { 
+            transform: translateY(-3px); 
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <h3></h3>
+    <a href="https://www.google.com/" class="simple-btn" target="_blank">🔗 לחץ כאן</a>
+</body>
+</html>
