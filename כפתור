@@ -1,0 +1,20 @@
+<a href="https://www.google.com/" class="btn-flat">כפתור שטוח</a>
+
+<style>
+.btn-flat {
+    display: inline-block;
+    padding: 15px 35px;
+    background: #ff6b6b;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(255, 107, 107, 0.3);
+}
+
+.btn-flat:hover {
+    background: #ff5252;
+    box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+}
+</style>
